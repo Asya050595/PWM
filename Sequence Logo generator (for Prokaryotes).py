@@ -1,4 +1,4 @@
-#script source: https://www.biotite-python.org/examples/gallery/sequence/anderson_logo.html#sphx-glr-examples-gallery-sequence-anderson-logo-py
+ #script source: https://www.biotite-python.org/examples/gallery/sequence/anderson_logo.html#sphx-glr-examples-gallery-sequence-anderson-logo-py
 
 import tempfile
 import numpy as np
